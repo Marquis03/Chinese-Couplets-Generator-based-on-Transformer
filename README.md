@@ -22,13 +22,17 @@
 本项目是一个**基于 Transformer 的中文对联生成器**，使用 PyTorch 构建模型，使用 Gradio 构建 Web UI。
 
 数据集：[https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset](https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset)
+
 GitHub 仓库：[https://github.com/Marquis03/Chinese-Couplets-Generator-based-on-Transformer](https://github.com/Marquis03/Chinese-Couplets-Generator-based-on-Transformer)
+
 Gitee 仓库：[https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer](https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer)
 
 This project is a **Chinese Couplets Generator** based on Transformer, using PyTorch to build the model and Gradio to build the Web UI.
 
 Dataset: [https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset](https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset)
+
 GitHub Repository: [https://github.com/Marquis03/Chinese-Couplets-Generator-based-on-Transformer](https://github.com/Marquis03/Chinese-Couplets-Generator-based-on-Transformer)
+
 Gitee Repository: [https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer](https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer)
 
 ### 项目结构(Structure)
