@@ -27,6 +27,8 @@ GitHub 仓库：[https://github.com/Marquis03/Chinese-Couplets-Generator-based-o
 
 Gitee 仓库：[https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer](https://gitee.com/marquis03/Chinese-Couplets-Generator-based-on-Transformer)
 
+---
+
 This project is a **Chinese Couplets Generator** based on Transformer, using PyTorch to build the model and Gradio to build the Web UI.
 
 Dataset: [https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset](https://www.kaggle.com/datasets/marquis03/chinese-couplets-dataset)
